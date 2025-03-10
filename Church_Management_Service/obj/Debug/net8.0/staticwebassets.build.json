@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "QGs0wSRtRkSaQ6typG2wExWH0BluWHBT+LOFg5m0rm8=",
+  "Source": "Church_Management_Service",
+  "BasePath": "_content/Church_Management_Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

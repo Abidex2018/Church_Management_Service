@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Church_Management_Service.props" />
+</Project>

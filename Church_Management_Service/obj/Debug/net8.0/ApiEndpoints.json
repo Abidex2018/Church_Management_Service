@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "Church_Management_Service.Controllers.AttendanceController",
+    "Method": "MarkAttendance",
+    "RelativePath": "api/Attendance/MarkAttendance",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "attendance",
+        "Type": "Church_Management_Service.Models.RequestModel.AttendanceRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Church_Management_Service.Controllers.MembershipController",
+    "Method": "RegisterMember",
+    "RelativePath": "api/Membership/RegisterMember",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "membership",
+        "Type": "Church_Management_Service.Models.RequestModel.MembershipRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
