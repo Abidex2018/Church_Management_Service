@@ -1,6 +1,16 @@
 [
   {
     "ContainingType": "Church_Management_Service.Controllers.AttendanceController",
+    "Method": "GetAttendance",
+    "RelativePath": "api/Attendance",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Church_Management_Service.Controllers.AttendanceController",
     "Method": "MarkAttendance",
     "RelativePath": "api/Attendance/MarkAttendance",
     "HttpMethod": "POST",

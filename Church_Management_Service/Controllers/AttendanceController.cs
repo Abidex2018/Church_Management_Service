@@ -54,7 +54,7 @@ namespace Church_Management_Service.Controllers
 
                 }
                 var res = await _attendanceService.MarkAttendance(attendanceRequest);
-                if (res != 0)
+                if (res == 0)
                 {
                     message = "An Error occur, Please try again later";
                     return BadRequest(new ApiResponse<Attendance>(false, null, message));
@@ -68,6 +68,22 @@ namespace Church_Management_Service.Controllers
 
                 throw;
             }
+        }
+
+        [HttpGet]
+        public async Task<ActionResult> GetAttendance()
+        {
+            var getAttendances = await _attendanceService.GetAttendances();
+            string message;
+            if (!getAttendances.Any())
+            {
+                message = "No attendance exist";
+                return BadRequest(new ApiResponseList<Attendance>(false, null, message));
+            }
+
+            message = "Attendances pulled Successfully";
+            var attendances = getAttendances.ToList();
+            return Ok(new ApiResponseList<Attendance>(true, attendances, message));
         }
     }
 }
