@@ -1,4 +1,5 @@
 C:\Users\Dev\Desktop\repos\Church_Management_System\Church_Management_Service\published\Church_Management_Service.exe
+C:\Users\Dev\Desktop\repos\Church_Management_System\Church_Management_Service\published\published\published\published\published\published\web.config
 C:\Users\Dev\Desktop\repos\Church_Management_System\Church_Management_Service\published\published\published\published\published\web.config
 C:\Users\Dev\Desktop\repos\Church_Management_System\Church_Management_Service\published\published\published\published\web.config
 C:\Users\Dev\Desktop\repos\Church_Management_System\Church_Management_Service\published\published\published\web.config
@@ -25,6 +26,11 @@ C:\Users\Dev\Desktop\repos\Church_Management_System\Church_Management_Service\pu
 C:\Users\Dev\Desktop\repos\Church_Management_System\Church_Management_Service\published\published\published\published\published\Church_Management_Service.deps.json
 C:\Users\Dev\Desktop\repos\Church_Management_System\Church_Management_Service\published\published\published\published\published\Church_Management_Service.runtimeconfig.json
 C:\Users\Dev\Desktop\repos\Church_Management_System\Church_Management_Service\published\published\published\published\published\Church_Management_Service.staticwebassets.endpoints.json
+C:\Users\Dev\Desktop\repos\Church_Management_System\Church_Management_Service\published\published\published\published\published\published\appsettings.Development.json
+C:\Users\Dev\Desktop\repos\Church_Management_System\Church_Management_Service\published\published\published\published\published\published\appsettings.json
+C:\Users\Dev\Desktop\repos\Church_Management_System\Church_Management_Service\published\published\published\published\published\published\Church_Management_Service.deps.json
+C:\Users\Dev\Desktop\repos\Church_Management_System\Church_Management_Service\published\published\published\published\published\published\Church_Management_Service.runtimeconfig.json
+C:\Users\Dev\Desktop\repos\Church_Management_System\Church_Management_Service\published\published\published\published\published\published\Church_Management_Service.staticwebassets.endpoints.json
 C:\Users\Dev\Desktop\repos\Church_Management_System\Church_Management_Service\published\Church_Management_Service.dll
 C:\Users\Dev\Desktop\repos\Church_Management_System\Church_Management_Service\published\Church_Management_Service.deps.json
 C:\Users\Dev\Desktop\repos\Church_Management_System\Church_Management_Service\published\Church_Management_Service.runtimeconfig.json

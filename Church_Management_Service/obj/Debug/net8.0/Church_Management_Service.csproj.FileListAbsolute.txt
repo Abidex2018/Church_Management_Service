@@ -172,3 +172,9 @@ C:\Users\Dev\Desktop\repos\Church_Management_System\Church_Management_Service\bi
 C:\Users\Dev\Desktop\repos\Church_Management_System\Church_Management_Service\bin\Debug\net8.0\published\published\published\published\Church_Management_Service.deps.json
 C:\Users\Dev\Desktop\repos\Church_Management_System\Church_Management_Service\bin\Debug\net8.0\published\published\published\published\Church_Management_Service.runtimeconfig.json
 C:\Users\Dev\Desktop\repos\Church_Management_System\Church_Management_Service\bin\Debug\net8.0\published\published\published\published\Church_Management_Service.staticwebassets.endpoints.json
+C:\Users\Dev\Desktop\repos\Church_Management_System\Church_Management_Service\bin\Debug\net8.0\published\published\published\published\published\web.config
+C:\Users\Dev\Desktop\repos\Church_Management_System\Church_Management_Service\bin\Debug\net8.0\published\published\published\published\published\appsettings.Development.json
+C:\Users\Dev\Desktop\repos\Church_Management_System\Church_Management_Service\bin\Debug\net8.0\published\published\published\published\published\appsettings.json
+C:\Users\Dev\Desktop\repos\Church_Management_System\Church_Management_Service\bin\Debug\net8.0\published\published\published\published\published\Church_Management_Service.deps.json
+C:\Users\Dev\Desktop\repos\Church_Management_System\Church_Management_Service\bin\Debug\net8.0\published\published\published\published\published\Church_Management_Service.runtimeconfig.json
+C:\Users\Dev\Desktop\repos\Church_Management_System\Church_Management_Service\bin\Debug\net8.0\published\published\published\published\published\Church_Management_Service.staticwebassets.endpoints.json

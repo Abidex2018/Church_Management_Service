@@ -148,3 +148,30 @@
 2025-03-11 07:09:06.344 +01:00 [INF] Executed endpoint 'Church_Management_Service.Controllers.AttendanceController.GetAttendance (Church_Management_Service)'
 2025-03-11 07:09:06.345 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5226/api/Attendance - 200 null application/json; charset=utf-8 53.2215ms
 2025-03-11 07:09:25.945 +01:00 [INF] Application is shutting down...
+2025-03-11 14:16:13.936 +01:00 [INF] Now listening on: https://localhost:7200
+2025-03-11 14:16:14.026 +01:00 [INF] Now listening on: http://localhost:5226
+2025-03-11 14:16:14.137 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-11 14:16:14.139 +01:00 [INF] Hosting environment: Development
+2025-03-11 14:16:14.141 +01:00 [INF] Content root path: C:\Users\Dev\Desktop\repos\Church_Management_System\Church_Management_Service
+2025-03-11 14:16:22.423 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7200/swagger/index.html - null null
+2025-03-11 14:16:24.389 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7200/swagger/index.html - 200 null text/html;charset=utf-8 2004.8438ms
+2025-03-11 14:16:24.803 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7200/_framework/aspnetcore-browser-refresh.js - null null
+2025-03-11 14:16:24.825 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7200/_vs/browserLink - null null
+2025-03-11 14:16:24.855 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7200/_framework/aspnetcore-browser-refresh.js - 200 13786 application/javascript; charset=utf-8 51.2917ms
+2025-03-11 14:16:25.476 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7200/_vs/browserLink - 200 null text/javascript; charset=UTF-8 666.3209ms
+2025-03-11 14:16:25.635 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7200/swagger/v1/swagger.json - null null
+2025-03-11 14:16:25.763 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7200/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 127.939ms
+2025-03-11 14:16:33.672 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7200/api/Attendance - null null
+2025-03-11 14:16:33.761 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7200/api/Attendance - 401 null null 94.1076ms
+2025-03-11 14:21:35.089 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/api/Attendance - null null
+2025-03-11 14:21:35.316 +01:00 [INF] Executing endpoint 'Church_Management_Service.Controllers.AttendanceController.GetAttendance (Church_Management_Service)'
+2025-03-11 14:21:35.737 +01:00 [INF] Route matched with {action = "GetAttendance", controller = "Attendance"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] GetAttendance() on controller Church_Management_Service.Controllers.AttendanceController (Church_Management_Service).
+2025-03-11 14:21:35.968 +01:00 [INF] Executing OkObjectResult, writing value of type 'Church_Management_Service.GenericResponse.ApiResponseList`1[[Church_Management_Service.Models.Attendance, Church_Management_Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-03-11 14:21:36.205 +01:00 [INF] Executed action Church_Management_Service.Controllers.AttendanceController.GetAttendance (Church_Management_Service) in 457.2234ms
+2025-03-11 14:21:36.209 +01:00 [INF] Executed endpoint 'Church_Management_Service.Controllers.AttendanceController.GetAttendance (Church_Management_Service)'
+2025-03-11 14:21:36.213 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:7200/api/Attendance - 200 null application/json; charset=utf-8 1137.6344ms
+2025-03-11 14:26:44.084 +01:00 [INF] Now listening on: http://localhost:5226
+2025-03-11 14:26:44.164 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-11 14:26:44.168 +01:00 [INF] Hosting environment: Development
+2025-03-11 14:26:44.170 +01:00 [INF] Content root path: C:\Users\Dev\Desktop\repos\Church_Management_System\Church_Management_Service
+2025-03-11 14:28:11.313 +01:00 [INF] Application is shutting down...
